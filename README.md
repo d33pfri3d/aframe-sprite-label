@@ -1,7 +1,7 @@
-## aframe-sprite-label-component
+## aframe-sprite-label
 
-[![Version](http://img.shields.io/npm/v/aframe-sprite-label-component.svg?style=flat-square)](https://npmjs.org/package/aframe-sprite-label-component)
-[![License](http://img.shields.io/npm/l/aframe-sprite-label-component.svg?style=flat-square)](https://npmjs.org/package/aframe-sprite-label-component)
+[![Version](http://img.shields.io/npm/v/aframe-sprite-label.svg?style=flat-square)](https://npmjs.org/package/aframe-sprite-label)
+[![License](http://img.shields.io/npm/l/aframe-sprite-label.svg?style=flat-square)](https://npmjs.org/package/aframe-sprite-label)
 
 A Sprite Label component for A-Frame.
 
